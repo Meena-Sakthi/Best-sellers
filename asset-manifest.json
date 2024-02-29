@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Best-sellers.git/static/css/main.1b33227d.css",
+    "main.js": "/Best-sellers.git/static/js/main.c9c63c91.js",
+    "index.html": "/Best-sellers.git/index.html",
+    "main.1b33227d.css.map": "/Best-sellers.git/static/css/main.1b33227d.css.map",
+    "main.c9c63c91.js.map": "/Best-sellers.git/static/js/main.c9c63c91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b33227d.css",
+    "static/js/main.c9c63c91.js"
+  ]
+}
